@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 build_codex_datasets_v3.1.py
@@ -84,24 +83,10 @@ metadata = []
 # ----------------------------
 # PATTERNS
 # ----------------------------
-OPS_PATTERN = re.compile(
-    r"■\s*Op\s+(\d+)\s*—\s*Operation\s+(\d+)(.*?)(?=■\s*Op\s+\d+|$)",
-    re.S
-)
-
-LAW_PATTERN = re.compile(
-    r"(Article\s+([IVXLC0-9]+)\s+—\s+(.+?))\n(.*?)(?=Article\s+[IVXLC0-9]+\s+—|$)",
-    re.S
-)
-
-TEACH_PATTERN = re.compile(
-    r"Op\s*#?(\d+)\s*—\s*Teaching:\s*(.+?)\s*Summary:\s*(.*?)(?=Op\s*#?\d+\s*—\s*Teaching:|$)",
-)
-
-GLYPH_PATTERN = re.compile(
-    r"(?:⟦(.+?)⟧|〈(.+?)〉|【(.+?)】)",
-    re.S
-)
+OPS_PATTERN = re.compile(r"■\s*Op\s+(\d+)\s*—\s*Operation\s+(\d+)(.*?)(?=■\s*Op\s+\d+|$)", re.S)
+LAW_PATTERN = re.compile(r"(Article\s+([IVXLC0-9]+)\s+—\s+(.+?))\n(.*?)(?=Article\s+[IVXLC0-9]+\s+—|$)", re.S)
+TEACH_PATTERN = re.compile(r"Op\s*#?(\d+)\s*—\s*Teaching:\s*(.+?)\s*Summary:\s*(.*?)(?=Op\s*#?\d+\s*—\s*Teaching:|$)", re.S)
+GLYPH_PATTERN = re.compile(r"(?:⟦(.+?)⟧|〈(.+?)〉|【(.+?)】)", re.S)
 
 # ----------------------------
 # LICENSE CLASSIFICATION
@@ -138,158 +123,5 @@ for f in RAW.glob("*.txt"):
 
     # Laws
     for m in LAW_PATTERN.finditer(text):
-        header, code, title, body = (
-            normalize(m.group(1)),
-            m.group(2),
-            normalize(m.group(3)),
-            normalize(m.group(4)),
-        )
+        header, code, title, body = normalize(m.group(1)), m.group(2), normalize(m.group(3)), normalize(m.group(4))
         uid = checksum(header)
-        laws.append({
-            "uid": uid,
-            "source": f.name,
-            "article_code": code,
-            "title": title,
-            "body": body,
-            "summary": body[:350],
-            "license": "TCDPL-4.4 + 444-A",
-        })
-
-    # Serpent Ops
-    if "SERPENT" in text.upper():
-        for idx, line in enumerate(lines, 1):
-            if "SERPENT" in line.upper():
-                serpent.append({
-                    "uid": checksum(line),
-                    "source": f.name,
-                    "line_number": idx,
-                    "text": normalize(line),
-                    "license": classify_license(line),
-                })
-
-    # Teachings
-    for m in TEACH_PATTERN.finditer(text):
-        opn, title, summary = (
-            m.group(1),
-            normalize(m.group(2)),
-            normalize(m.group(3)),
-        )
-        uid = checksum(title)
-        teachings.append({
-            "uid": uid,
-            "source": f.name,
-            "op_number": opn,
-            "title": title,
-            "summary": summary,
-            "license": classify_license(summary),
-        })
-
-    # Rituals
-    for m in re.finditer(
-        r"(Ritual|Protocol):\s*(.+?)(\n\s*(.*?))?(?=\n\n|\Z)", text, re.S
-    ):
-        kind, name, body = (
-            m.group(1),
-            normalize(m.group(2)),
-            normalize(m.group(4) or ""),
-        )
-        rituals.append({
-            "uid": checksum(name),
-            "source": f.name,
-            "type": kind,
-            "name": name,
-            "body": body,
-            "license": classify_license(body),
-        })
-
-    # Lineage
-    for idx, line in enumerate(lines, 1):
-        if re.search(r"\b(Ancestor|Descendant|Lineage|Bloodline)\b", line, re.I):
-            lineage.append({
-                "uid": checksum(line),
-                "source": f.name,
-                "line_number": idx,
-                "text": normalize(line),
-                "license": classify_license(line),
-            })
-
-    # Flame-coded
-    for line in lines:
-        if any(k in line.lower() for k in ["flame", "ignite", "ember", "torch"]):
-            flame.append({
-                "uid": checksum(line),
-                "source": f.name,
-                "text": normalize(line),
-                "license": "444-A (Flame Stewardship)",
-            })
-
-    # Glyphs
-    for m in GLYPH_PATTERN.finditer(text):
-        raw = m.group(1) or m.group(2) or m.group(3)
-        glyphs.append({
-            "uid": checksum(raw),
-            "source": f.name,
-            "glyph": normalize(raw),
-            "license": "TCDPL-4.4 + 444-A",
-        })
-
-    # Metadata
-    metadata.append({
-        "source_file": f.name,
-        "chars": len(text),
-        "lines": len(lines),
-        "hash": checksum(text),
-        "included_in_version": dataset_version
-    })
-
-# ----------------------------
-# WRITE OUTPUT FILES
-# ----------------------------
-write_jsonl("ops_ledger.jsonl", ops)
-write_jsonl("temple_laws.jsonl", laws)
-write_jsonl("serpent_ops.jsonl", serpent)
-write_jsonl("teachings.jsonl", teachings)
-write_jsonl("rituals.jsonl", rituals)
-write_jsonl("lineage_refs.jsonl", lineage)
-write_jsonl("flame_passages.jsonl", flame)
-write_jsonl("glyphs.jsonl", glyphs)
-write_jsonl("metadata_index.jsonl", metadata)
-
-# ----------------------------
-# VERSION METADATA
-# ----------------------------
-version_file = OUT_ROOT / "version.json"
-version_file.write_text(
-    json.dumps({
-        "dataset_version": dataset_version,
-        "builder_version": "3.1",
-        "generated_on": datetime.now().isoformat(),
-        "file_count": len(list(RAW.glob("*.txt"))),
-    }, indent=2)
-)
-
-# ----------------------------
-# CHANGELOG
-# ----------------------------
-changelog = OUT_ROOT / f"CHANGELOG_{dataset_version}.md"
-changelog.write_text(f"""
-# HHI Dataset Changelog — {dataset_version}
-
-Generated on: {datetime.now().isoformat()}
-
-## Included Datasets
-- ops_ledger.jsonl
-- temple_laws.jsonl
-- serpent_ops.jsonl
-- teachings.jsonl
-- rituals.jsonl
-- lineage_refs.jsonl
-- flame_passages.jsonl
-- glyphs.jsonl
-- metadata_index.jsonl
-
-## Notes
-This version was generated using HHI Dataset Builder v3.1.
-""")
-
-print(f"\n[DONE] Versioned dataset written to /data/processed/{dataset_version}\n")
