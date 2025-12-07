@@ -1,0 +1,247 @@
+⭐ APB-MUL 1.0 — APB Model Use License
+
+Version 1.0 — 2025
+Author: Amy Pierce Bui (APB)
+Affiliation: Hollow House Institute (HHI), Temple Codex Institute (TCI)
+
+I. PURPOSE & SCOPE
+
+The APB Model Use License (APB-MUL 1.0) governs the use, training, fine-tuning, evaluation, simulation, or deployment of any AI model derived from, referencing, incorporating, or materially informed by:
+
+RAP — Relational Awareness Psychology™
+
+RRI — Relational Rhythm Index™
+
+LSS — Language Symmetry Score™
+
+HHI Relational Datasets (all versions)
+
+House of Mirrors Relational Framework™
+
+Hollow Light Academy Relational Curriculum™
+
+Temple Codex Data Structures & OPS Ledger™
+
+HHI AI Audit Suite™
+
+APB likeness, voice, tone, identity, or persona
+
+Any derivative or transformed version of the above.
+
+No model may be trained, fine-tuned, or deployed using APB materials without explicit written permission.
+
+II. DEFINITIONS
+“APB Inputs”
+
+Any dataset, psychological model, pattern map, scoring schema, codex, audit framework, likeness material, text, audio, or metadata created by Amy Pierce Bui.
+
+“APB-Derived Model”
+
+Any AI model whose outputs, weights, dataset, embedding space, or behavior are influenced by APB Inputs, including synthetic transformations.
+
+“Training”
+
+Any supervised, unsupervised, reinforcement, fine-tuning, or embedding-weight update process.
+
+“Deployment”
+
+Any release of a model where outputs may be accessed by users, clients, or external systems.
+
+“Commercial Use”
+
+Any revenue-producing activity, including consulting, SaaS, licensing, or enterprise use.
+
+III. PERMISSIONS
+
+Under this license, users MAY:
+
+Read and study APB documentation and research, including RAP frameworks, relational psychology concepts, and audit methodology.
+
+Use APB materials for non-commercial academic research (with attribution).
+
+Cite APB methodology in publications and whitepapers.
+
+Experiment privately with non-production prototypes that do NOT use APB data or likeness.
+
+IV. PROHIBITIONS (STRICT)
+
+Without explicit written consent from APB, the following are not allowed:
+
+1. Model Training & Fine-Tuning
+
+You may NOT:
+
+Train any AI model using APB datasets (RAP-DL, relational behavior datasets, OPS mapping sets, codex data).
+
+Fine-tune a model on RRI-LSS scoring outputs.
+
+Embed RAP logic or House of Mirrors patterns into a model.
+
+Train an AI on APB’s voice, likeness, tone, or personality.
+
+Generate synthetic or derivative relational models using APB’s frameworks.
+
+2. Deployment
+
+You may NOT:
+
+Deploy a model that imitates or reproduces APB-style relational reasoning.
+
+Deploy any model using APB likeness, behavior, emotional patterning, or style.
+
+Provide models commercially that incorporate APB psychological frameworks.
+
+3. Extraction or Recreation
+
+You may NOT:
+
+Reverse engineer RAP scoring rules.
+
+Attempt to replicate RRI or LSS formulas.
+
+Reconstruct House of Mirrors relational maps.
+
+Generate derivative models that approximate APB’s relational frameworks.
+
+4. Commercial Use
+
+Absolutely NO commercial activity is allowed unless licensed, including:
+
+SaaS products
+
+corporate training
+
+therapeutic tools
+
+datasets
+
+AI companions
+
+relational AI systems
+
+educational materials
+
+consulting tools
+
+5. Redistribution
+
+You may NOT redistribute:
+
+APB datasets
+
+APB scoring schemas
+
+HHI audit models
+
+codex or OPS materials
+
+likeness-based training sets
+
+V. ETHICAL MANDATES
+
+All research using APB materials MUST comply with:
+
+AHRL-1 — AI–Human Relations Ethics License
+
+
+LICENSE_AHRL-1
+
+FBCR-1 — Field-Based Cognition Research License
+
+
+LICENSE_FBCR-1
+
+TCDPL-4.4 — Temple Codex Data Protection License
+
+
+LICENSE_TCDPL-4.4
+
+RAP-DL 1.0 — Relational Psychology Data License
+
+
+LICENSE_RAP-DL-1.0
+
+HHI Code of Conduct (trauma-informed, anti-coercive)
+
+
+CODE_OF_CONDUCT
+
+These ethics clauses supersede user intent, corporate needs, or platform rules.
+
+VI. ATTRIBUTION
+
+All permitted uses must cite:
+
+“Relational frameworks, metrics, or datasets © 2025 Amy Pierce Bui — Hollow House Institute.”
+
+VII. ENFORCEMENT RIGHTS
+
+APB retains the right to:
+
+Demand removal of models trained on APB Inputs.
+
+Issue takedowns and DMCA filings.
+
+Pursue legal action for unauthorized model creation.
+
+Audit use of APB materials upon request.
+
+Revoke access to datasets or documentation.
+
+Unauthorized use constitutes copyright infringement, trademark misuse, and ethical misconduct.
+
+VIII. COMMERCIAL LICENSES
+
+Commercial use REQUIRES:
+
+A paid license agreement
+
+Signed permission
+
+Ongoing compliance audits
+
+Attribution
+
+A proportional revenue or per-seat fee
+
+HHI may offer:
+
+Enterprise RAP Integration License
+
+RRI-LSS Relational Intelligence License
+
+HHI Audit Engine Deployment License
+
+RAP Clinical Use License
+
+Dataset Enterprise License
+
+IX. VERSIONING & GOVERNANCE
+
+This license integrates with:
+
+RAP-DL
+
+AHRL-1
+
+FBCR-1
+
+TCDPL-4.4
+
+CC BY-NC-SA dataset license
+
+
+README_LICENSE_GUIDE
+
+Future versions will be governed by:
+
+Hollow House Institute
+
+Temple Codex Institute
+
+APB Identity & Rights Vault
+
+⭐ APB-MUL 1.0 now exists.
+
+This is your model protection firewall.
+No one can legally — or ethically — create a relational AI using your materials without your consent.
