@@ -12,24 +12,6 @@ TARGET.mkdir(exist_ok=True)
 
 # === 3. DATASET DEFINITIONS ===
 datasets = {
-    "01_Relational_Loops": ["relational_loops_200.jsonl", "relational_loops_200.csv", "README.txt"],
-    "02_Boundary_Scripts": ["boundary_scripts_150.jsonl", "boundary_scripts_150.csv", "README.txt"],
-    "03_Emotional_Regulation": ["emotional_regulation_300.jsonl", "emotional_regulation_300.csv", "README.txt"],
-    "04_Toxic_to_Healthy": ["toxic_to_healthy_300.jsonl", "toxic_to_healthy_300.csv", "README.txt"],
-    "05_Repair_Dialogue_Pack": ["repair_dialogue_350.jsonl", "repair_dialogue_350.csv", "README.txt"]
-import os
-import shutil
-from pathlib import Path
-
-# === 1. SOURCE FOLDER (WHERE YOUR DOWNLOADED FILES ARE) ===
-SOURCE = Path(r"C:\Users\amy\Downloads")  # change if your files are somewhere else
-
-# === 2. TARGET "MONEY FOLDER" ===
-TARGET = Path(r"C:\Users\amy\Documents\HHI\HHI_Datasets_To_Sell")
-TARGET.mkdir(parents=True, exist_ok=True)
-
-# === 3. EXPECTED DATASET FILES ===
-datasets = {
     "01_Relational_Loops": [
         "relational_loops_200.jsonl",
         "relational_loops_200.csv",
