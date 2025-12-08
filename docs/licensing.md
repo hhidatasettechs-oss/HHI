@@ -33,7 +33,7 @@ Under the conditions:
 - **ShareAlike** — if you remix, transform, or build upon the material, you must distribute your contributions under the **same license**
 
 Full legal code:  
-https://creativecommons.org/licenses/by-nc-sa/4.0/
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 ---
 
