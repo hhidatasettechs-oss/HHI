@@ -1,0 +1,7 @@
+APB Model Use License (APB-MUL 1.0) — Stub
+
+This repository and all derived datasets are covered by the APB Model Use License.
+No model may be trained, fine-tuned, or deployed on these datasets or any derivative
+without explicit written permission from the author (Amy Pierce Adams / Hollow House Institute).
+
+Replace this stub with the full APB-MUL 1.0 text from your legal vault.

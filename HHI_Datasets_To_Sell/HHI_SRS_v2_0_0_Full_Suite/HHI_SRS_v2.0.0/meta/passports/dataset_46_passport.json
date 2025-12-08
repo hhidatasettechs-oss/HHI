@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-46",
+  "name": "Identity Coherence Engine (ICE)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_46/dataset_46.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 46 \u2014 Identity Coherence Engine (ICE). Full text to be pasted from ChatGPT export."
+}

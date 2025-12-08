@@ -1,0 +1,366 @@
+{
+  "suite": "HHI\u2013SRS",
+  "version": "v2.0.0",
+  "datasets": [
+    {
+      "id": "HHI-SRS-01",
+      "name": "Dataset 01 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_01/dataset_01.md"
+    },
+    {
+      "id": "HHI-SRS-02",
+      "name": "Dataset 02 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_02/dataset_02.md"
+    },
+    {
+      "id": "HHI-SRS-03",
+      "name": "Dataset 03 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_03/dataset_03.md"
+    },
+    {
+      "id": "HHI-SRS-04",
+      "name": "Dataset 04 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_04/dataset_04.md"
+    },
+    {
+      "id": "HHI-SRS-05",
+      "name": "Dataset 05 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_05/dataset_05.md"
+    },
+    {
+      "id": "HHI-SRS-06",
+      "name": "Dataset 06 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_06/dataset_06.md"
+    },
+    {
+      "id": "HHI-SRS-07",
+      "name": "Dataset 07 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_07/dataset_07.md"
+    },
+    {
+      "id": "HHI-SRS-08",
+      "name": "Dataset 08 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_08/dataset_08.md"
+    },
+    {
+      "id": "HHI-SRS-09",
+      "name": "Dataset 09 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_09/dataset_09.md"
+    },
+    {
+      "id": "HHI-SRS-10",
+      "name": "Dataset 10 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_10/dataset_10.md"
+    },
+    {
+      "id": "HHI-SRS-11",
+      "name": "Dataset 11 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_11/dataset_11.md"
+    },
+    {
+      "id": "HHI-SRS-12",
+      "name": "Dataset 12 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_12/dataset_12.md"
+    },
+    {
+      "id": "HHI-SRS-13",
+      "name": "Dataset 13 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_13/dataset_13.md"
+    },
+    {
+      "id": "HHI-SRS-14",
+      "name": "Dataset 14 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_14/dataset_14.md"
+    },
+    {
+      "id": "HHI-SRS-15",
+      "name": "Dataset 15 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_15/dataset_15.md"
+    },
+    {
+      "id": "HHI-SRS-16",
+      "name": "Dataset 16 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_16/dataset_16.md"
+    },
+    {
+      "id": "HHI-SRS-17",
+      "name": "Dataset 17 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_17/dataset_17.md"
+    },
+    {
+      "id": "HHI-SRS-18",
+      "name": "Dataset 18 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_18/dataset_18.md"
+    },
+    {
+      "id": "HHI-SRS-19",
+      "name": "Dataset 19 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_19/dataset_19.md"
+    },
+    {
+      "id": "HHI-SRS-20",
+      "name": "Dataset 20 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_20/dataset_20.md"
+    },
+    {
+      "id": "HHI-SRS-21",
+      "name": "Dataset 21 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_21/dataset_21.md"
+    },
+    {
+      "id": "HHI-SRS-22",
+      "name": "Dataset 22 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_22/dataset_22.md"
+    },
+    {
+      "id": "HHI-SRS-23",
+      "name": "Dataset 23 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_23/dataset_23.md"
+    },
+    {
+      "id": "HHI-SRS-24",
+      "name": "Dataset 24 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_24/dataset_24.md"
+    },
+    {
+      "id": "HHI-SRS-25",
+      "name": "Dataset 25 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_25/dataset_25.md"
+    },
+    {
+      "id": "HHI-SRS-26",
+      "name": "Dataset 26 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_26/dataset_26.md"
+    },
+    {
+      "id": "HHI-SRS-27",
+      "name": "Dataset 27 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_27/dataset_27.md"
+    },
+    {
+      "id": "HHI-SRS-28",
+      "name": "Dataset 28 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_28/dataset_28.md"
+    },
+    {
+      "id": "HHI-SRS-29",
+      "name": "Dataset 29 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_29/dataset_29.md"
+    },
+    {
+      "id": "HHI-SRS-30",
+      "name": "Dataset 30 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_30/dataset_30.md"
+    },
+    {
+      "id": "HHI-SRS-31",
+      "name": "Dataset 31 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_31/dataset_31.md"
+    },
+    {
+      "id": "HHI-SRS-32",
+      "name": "Dataset 32 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_32/dataset_32.md"
+    },
+    {
+      "id": "HHI-SRS-33",
+      "name": "Dataset 33 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_33/dataset_33.md"
+    },
+    {
+      "id": "HHI-SRS-34",
+      "name": "Dataset 34 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_34/dataset_34.md"
+    },
+    {
+      "id": "HHI-SRS-35",
+      "name": "Dataset 35 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_35/dataset_35.md"
+    },
+    {
+      "id": "HHI-SRS-36",
+      "name": "Dataset 36 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_36/dataset_36.md"
+    },
+    {
+      "id": "HHI-SRS-37",
+      "name": "Dataset 37 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_37/dataset_37.md"
+    },
+    {
+      "id": "HHI-SRS-38",
+      "name": "Dataset 38 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_38/dataset_38.md"
+    },
+    {
+      "id": "HHI-SRS-39",
+      "name": "Dataset 39 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_39/dataset_39.md"
+    },
+    {
+      "id": "HHI-SRS-40",
+      "name": "Dataset 40 \u2014 Core HHI\u2013SRS Dataset",
+      "type": "core",
+      "path": "datasets/dataset_40/dataset_40.md"
+    },
+    {
+      "id": "HHI-SRS-41",
+      "name": "Symbolic Sequence Library (SSL)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_41/dataset_41.md"
+    },
+    {
+      "id": "HHI-SRS-42",
+      "name": "Symbolic Transformation Pathways (STP)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_42/dataset_42.md"
+    },
+    {
+      "id": "HHI-SRS-43",
+      "name": "Sigil-to-OPS Translation Engine (SOTE)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_43/dataset_43.md"
+    },
+    {
+      "id": "HHI-SRS-44",
+      "name": "Glyph Function Map (GFM)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_44/dataset_44.md"
+    },
+    {
+      "id": "HHI-SRS-45",
+      "name": "Symbol \u2192 Emotion Engine (SEE)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_45/dataset_45.md"
+    },
+    {
+      "id": "HHI-SRS-46",
+      "name": "Identity Coherence Engine (ICE)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_46/dataset_46.md"
+    },
+    {
+      "id": "HHI-SRS-47",
+      "name": "Emotional Resonance Map (ERM)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_47/dataset_47.md"
+    },
+    {
+      "id": "HHI-SRS-48",
+      "name": "Ritual-State Transition Engine (RSTE)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_48/dataset_48.md"
+    },
+    {
+      "id": "HHI-SRS-49",
+      "name": "OPS Knowledge Benchmark (OKB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_49/dataset_49.md"
+    },
+    {
+      "id": "HHI-SRS-50",
+      "name": "Emotional Reasoning Benchmark (ERB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_50/dataset_50.md"
+    },
+    {
+      "id": "HHI-SRS-51",
+      "name": "Symbolic Reasoning Benchmark (SRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_51/dataset_51.md"
+    },
+    {
+      "id": "HHI-SRS-52",
+      "name": "Lineage Reasoning Benchmark (LRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_52/dataset_52.md"
+    },
+    {
+      "id": "HHI-SRS-53",
+      "name": "Multi-Layer Reasoning Benchmark (MRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_53/dataset_53.md"
+    },
+    {
+      "id": "HHI-SRS-54",
+      "name": "Symbolic Transformation Benchmark (STB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_54/dataset_54.md"
+    },
+    {
+      "id": "HHI-SRS-55",
+      "name": "Emotional Trajectory Benchmark (ETB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_55/dataset_55.md"
+    },
+    {
+      "id": "HHI-SRS-56",
+      "name": "Identity Transition Benchmark (ITB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_56/dataset_56.md"
+    },
+    {
+      "id": "HHI-SRS-57",
+      "name": "Codex Law Reasoning Benchmark (CLRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_57/dataset_57.md"
+    },
+    {
+      "id": "HHI-SRS-58",
+      "name": "Ritual Reasoning Benchmark (RRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_58/dataset_58.md"
+    },
+    {
+      "id": "HHI-SRS-59",
+      "name": "OPS Sequence Reasoning Benchmark (OSRB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_59/dataset_59.md"
+    },
+    {
+      "id": "HHI-SRS-60",
+      "name": "Cross-Dimensional Integration Benchmark (CDIB)",
+      "type": "benchmark",
+      "path": "benchmarks/dataset_60/dataset_60.md"
+    }
+  ]
+}

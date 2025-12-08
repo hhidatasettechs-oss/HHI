@@ -1,0 +1,14 @@
+suite: HHI–SRS
+version: v2.0.0
+author: "Amy Pierce Adams (APB) / Hollow House Institute"
+license:
+  - APB-MUL-1.0
+  - HHI-CUA-1
+structure:
+  datasets: "Core SRS datasets 01–40"
+  benchmarks: "Benchmark & evaluation datasets 41–60"
+  codex: "Pointers to Codex law, glyph, sigil docs"
+  ops: "Pointers to OPS identity operation docs"
+  lineage: "Pointers to ancestry / bloodline docs"
+  ritual: "Pointers to ritual-state docs"
+  meta: "Passports, version index, manifests"

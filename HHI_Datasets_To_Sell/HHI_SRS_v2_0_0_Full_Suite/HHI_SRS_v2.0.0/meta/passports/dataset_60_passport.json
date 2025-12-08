@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-60",
+  "name": "Cross-Dimensional Integration Benchmark (CDIB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_60/dataset_60.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 60 \u2014 Cross-Dimensional Integration Benchmark (CDIB). Full text to be pasted from ChatGPT export."
+}

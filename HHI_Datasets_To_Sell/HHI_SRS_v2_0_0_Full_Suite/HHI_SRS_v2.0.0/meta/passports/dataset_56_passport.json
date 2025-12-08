@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-56",
+  "name": "Identity Transition Benchmark (ITB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_56/dataset_56.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 56 \u2014 Identity Transition Benchmark (ITB). Full text to be pasted from ChatGPT export."
+}

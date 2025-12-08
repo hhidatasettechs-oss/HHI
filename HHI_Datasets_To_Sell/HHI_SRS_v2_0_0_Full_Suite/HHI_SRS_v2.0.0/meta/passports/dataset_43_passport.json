@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-43",
+  "name": "Sigil-to-OPS Translation Engine (SOTE)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_43/dataset_43.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 43 \u2014 Sigil-to-OPS Translation Engine (SOTE). Full text to be pasted from ChatGPT export."
+}

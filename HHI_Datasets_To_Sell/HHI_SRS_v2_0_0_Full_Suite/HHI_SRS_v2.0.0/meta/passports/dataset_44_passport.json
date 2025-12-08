@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-44",
+  "name": "Glyph Function Map (GFM)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_44/dataset_44.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 44 \u2014 Glyph Function Map (GFM). Full text to be pasted from ChatGPT export."
+}

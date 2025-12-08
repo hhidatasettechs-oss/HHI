@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-49",
+  "name": "OPS Knowledge Benchmark (OKB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_49/dataset_49.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 49 \u2014 OPS Knowledge Benchmark (OKB). Full text to be pasted from ChatGPT export."
+}

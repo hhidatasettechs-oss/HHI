@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-41",
+  "name": "Symbolic Sequence Library (SSL)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_41/dataset_41.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 41 \u2014 Symbolic Sequence Library (SSL). Full text to be pasted from ChatGPT export."
+}

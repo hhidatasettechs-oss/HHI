@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-47",
+  "name": "Emotional Resonance Map (ERM)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_47/dataset_47.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 47 \u2014 Emotional Resonance Map (ERM). Full text to be pasted from ChatGPT export."
+}

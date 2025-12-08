@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-50",
+  "name": "Emotional Reasoning Benchmark (ERB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_50/dataset_50.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 50 \u2014 Emotional Reasoning Benchmark (ERB). Full text to be pasted from ChatGPT export."
+}

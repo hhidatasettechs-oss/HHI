@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-48",
+  "name": "Ritual-State Transition Engine (RSTE)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_48/dataset_48.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 48 \u2014 Ritual-State Transition Engine (RSTE). Full text to be pasted from ChatGPT export."
+}

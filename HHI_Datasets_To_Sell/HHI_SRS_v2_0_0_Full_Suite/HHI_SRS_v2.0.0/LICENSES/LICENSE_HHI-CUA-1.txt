@@ -1,0 +1,6 @@
+Hollow House Institute Commercial Use Agreement (HCUA-1) — Stub
+
+Commercial licensing, sublicensing, or resale of any dataset or benchmark contained
+in this suite is governed by the Hollow House Institute Commercial Use Agreement (HCUA-1).
+
+Replace this stub with the full HHI_CUA text from `HHI_Commercial_Use_Agreement_HCUA-1.md`.

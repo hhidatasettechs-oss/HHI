@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-45",
+  "name": "Symbol \u2192 Emotion Engine (SEE)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_45/dataset_45.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 45 \u2014 Symbol \u2192 Emotion Engine (SEE). Full text to be pasted from ChatGPT export."
+}

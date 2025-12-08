@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-42",
+  "name": "Symbolic Transformation Pathways (STP)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_42/dataset_42.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 42 \u2014 Symbolic Transformation Pathways (STP). Full text to be pasted from ChatGPT export."
+}

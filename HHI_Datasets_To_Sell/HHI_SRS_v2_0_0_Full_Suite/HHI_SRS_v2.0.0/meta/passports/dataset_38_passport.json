@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-38",
+  "name": "Dataset 38 \u2014 Core HHI\u2013SRS Dataset",
+  "version": "v2.0.0",
+  "type": "core",
+  "path": "datasets/dataset_38/dataset_38.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 38 \u2014 Dataset 38 \u2014 Core HHI\u2013SRS Dataset. Full text to be pasted from ChatGPT export."
+}

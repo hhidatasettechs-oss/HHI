@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-52",
+  "name": "Lineage Reasoning Benchmark (LRB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_52/dataset_52.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 52 \u2014 Lineage Reasoning Benchmark (LRB). Full text to be pasted from ChatGPT export."
+}

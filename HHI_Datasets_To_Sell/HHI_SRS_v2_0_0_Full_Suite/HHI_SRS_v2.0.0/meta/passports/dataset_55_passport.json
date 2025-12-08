@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-55",
+  "name": "Emotional Trajectory Benchmark (ETB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_55/dataset_55.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 55 \u2014 Emotional Trajectory Benchmark (ETB). Full text to be pasted from ChatGPT export."
+}

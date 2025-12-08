@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-59",
+  "name": "OPS Sequence Reasoning Benchmark (OSRB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_59/dataset_59.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 59 \u2014 OPS Sequence Reasoning Benchmark (OSRB). Full text to be pasted from ChatGPT export."
+}

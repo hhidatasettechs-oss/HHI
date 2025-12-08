@@ -1,0 +1,13 @@
+{
+  "id": "HHI-SRS-57",
+  "name": "Codex Law Reasoning Benchmark (CLRB)",
+  "version": "v2.0.0",
+  "type": "benchmark",
+  "path": "benchmarks/dataset_57/dataset_57.md",
+  "license": [
+    "APB-MUL-1.0",
+    "HHI-CUA-1"
+  ],
+  "status": "draft-scaffold",
+  "description": "Scaffold for Dataset 57 \u2014 Codex Law Reasoning Benchmark (CLRB). Full text to be pasted from ChatGPT export."
+}
