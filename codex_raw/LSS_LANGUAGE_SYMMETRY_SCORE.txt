@@ -1,0 +1,29 @@
+Formula (simplified conceptual form):
+RRI = 1 - \frac{|?_{tempo} + ?_{pause}|}{Total_{cycles}}
+This normalizes variance in turn-taking rhythm to produce a score between 0 and 1.
+Interpretation:
+A sustained RRI ? 0.82 indicates mutual regulation; below 0.6 suggests manipulation, fatigue, or emotional coercion.
+
+2. 
+LSS — Language Symmetry Score
+Definition:
+A linguistic balance index measuring reciprocity in semantic weight, sentence length, and emotional polarity across turns.
+Purpose:
+LSS quantifies ethical symmetry in language. It exposes asymmetries of power in discourse — for example, when one speaker consistently dominates or emotionally burdens the other.
+Formula (conceptual):
+LSS = 1 - \frac{|?_{valence_{A}} - ?_{valence_{B}}| + |?_{complexity_{A}} - ?_{complexity_{B}}|}{N}
+Like RRI, it’s scaled 0–1.
+High LSS = linguistic fairness.
+
+Low LSS = extraction or distortion.
+
+Interpretation:
+LSS ? 0.75 reflects mutual comprehension and fairness.
+A drop below 0.5 signals that language is being used to control, not connect.
+
+3. 
+Turning Ethics into Compliance
+Together, RRI and LSS form the Relational Health Dashboard — a compliance metric for dialogue ethics.
+They transform abstract ideals (respect, empathy, consent) into measurable values.
+By monitoring these in real time, systems can audit whether communication remains sovereign, balanced, and non-exploitative.
+
