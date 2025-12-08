@@ -1,0 +1,5 @@
+
+APB-MUL 1.0 — Model Use License
+
+This dataset is protected under the APB-MUL license.
+Unauthorized training, fine-tuning, or deployment is prohibited.
