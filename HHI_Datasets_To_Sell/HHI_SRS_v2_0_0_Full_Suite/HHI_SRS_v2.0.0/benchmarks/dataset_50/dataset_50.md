@@ -9,7 +9,7 @@ Type: Benchmark
 
 This is the markdown scaffold for **Dataset 50 — Emotional Reasoning Benchmark (ERB)** in the HHI–SRS v2.0.0 suite.
 
-The full, richly written dataset card content (overview, schema, examples, use cases, 
+The full, richly written dataset card content (overview, schema, examples, use cases,
 research applications, and commercial positioning) was generated in your ChatGPT conversations.
 
 To complete this file for publication, paste the final dataset card text for Dataset 50
@@ -46,4 +46,3 @@ _If this is a benchmark dataset (41–60), describe tasks and evaluation protoco
 - Version: v2.0.0  
 - License: APB-MUL 1.0 + HHI-CUA-1  
 - Author: Amy Pierce Adams (APB) / Hollow House Institute  
-
