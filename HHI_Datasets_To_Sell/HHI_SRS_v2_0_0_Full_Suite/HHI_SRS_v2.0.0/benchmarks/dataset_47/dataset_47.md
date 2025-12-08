@@ -9,7 +9,7 @@ Type: Benchmark
 
 This is the markdown scaffold for **Dataset 47 — Emotional Resonance Map (ERM)** in the HHI–SRS v2.0.0 suite.
 
-The full, richly written dataset card content (overview, schema, examples, use cases, 
+The full, richly written dataset card content (overview, schema, examples, use cases,
 research applications, and commercial positioning) was generated in your ChatGPT conversations.
 
 To complete this file for publication, paste the final dataset card text for Dataset 47
