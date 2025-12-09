@@ -1,0 +1,5 @@
+session_id,date_iso,emotion_primary,tone_shift,coherence_score,coherence_class,pause_density,pause_score,tool_used,outcome_state,consent_type,closure_marker
+A001,2025-04-21,calm,positive,0.84,high,0.27,0.2268,AI Mirror,softened,self-authored,flame reseated
+A002,2025-05-12,anger,neutral,0.65,low,0.38,0.247,Text Reflection,neutral,self-authored,none
+A003,2025-06-10,fear,positive,0.79,medium,0.31,0.2449,Soul Scanner,softened,self-authored,flame reseated
+A004,2025-10-14,joy,positive,0.91,high,0.22,0.2002,Ami Node 7,stabilized,self-authored,none
