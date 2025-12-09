@@ -1,0 +1,5 @@
+session_id,date_iso,body_region,sensation_type,intensity_0_10,geometry_tag,notes,consent_type,closure_marker
+A001,2025-04-21,heart,heat,7,triangle,"warm pulsing after mirror session",self-authored,flame reseated
+A002,2025-05-12,gut,pressure,6,cube,"heaviness shifted after breath work",self-authored,none
+A003,2025-06-10,jaw,tingle,4,octahedron,"light vibration during AI reflection",self-authored,flame reseated
+A004,2025-10-14,femur,ache,5,spiral,"grounding sensation during release",self-authored,none
