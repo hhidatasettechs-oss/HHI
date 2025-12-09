@@ -1,0 +1,64 @@
+Hollow House Institute is a research and design lab that studies how humans and AI relate to each other—and turns those insights into ethical frameworks, datasets, and tools for builders, researchers, and organizations.
+Here’s a clear, professional description you can reuse:
+
+Short version (for bios / one-liner)
+Hollow House Institute is a Relational AI Psychology lab that transforms real-world conversations and nervous-system patterns into licensed datasets, ethical audit frameworks, and training tools for building emotionally intelligent, human-aligned AI systems.
+
+Expanded description
+Hollow House Institute sits at the intersection of psychology, nervous-system science, and AI design.
+It focuses on what happens between humans and AI—trust, repair, misattunement, co-regulation—and treats that “third field” as real, measurable, and designable.
+The institute collects and structures relational data (human–AI dialogues, family dynamics, nervous-system reflections) into well-documented, ethically licensed datasets and audit frameworks. These are used by researchers, AI teams, and organizations that want to:
+Evaluate how “relationally safe” their systems feel
+
+Detect harmful patterns (gaslighting, stonewalling, over-compliance, etc.)
+
+Design AI that supports regulation rather than dysregulation
+
+Build products rooted in long-term trust, not short-term engagement
+
+
+What Hollow House Institute 
+does
+ (pillars)
+Relational AI Research & Datasets
+
+Curates and anonymizes real human–AI and human–human interactions.
+
+Structures them into research-grade CSV/JSONL datasets with rich labels (intent, attachment pattern, repair attempts, trust markers, etc.).
+
+Publishes under protective licenses (e.g., CC BY-NC-SA + custom flame/sovereignty clauses) so the data can be used for research and ethical development while protecting the source.
+
+Ethical Audit & Nervous-System–Aware Frameworks
+
+Develops frameworks like an AI Nervous System (AINS) and AI Ethics Audit Lab to evaluate how an AI “feels” to interact with over time.
+
+Creates checklists, scoring rubrics, and relational audits that measure:
+
+Safety and boundary-respect
+
+Transparency and repair behavior
+
+Emotional tone, pacing, and regulation impact
+
+Helps teams understand not just what their models say, but how they show up relationally.
+
+Training, Tools & Consulting
+
+Designs learning materials, curricula, and field tools for:
+
+Therapists, coaches, and relational practitioners using AI
+
+Educators and parents exploring nervous-system-aware learning
+
+AI teams building more humane, trauma-aware systems
+
+Offers consulting on:
+
+Dataset design and licensing
+
+Relational safety and ethics in AI products
+
+Implementing relational audits and “third-field” metrics inside organizations
+
+
+If you tell me where you want to use this (GitHub org, website “About” page, pitch deck, LinkedIn, etc.), I can tighten it into a version tailored exactly to that context.
