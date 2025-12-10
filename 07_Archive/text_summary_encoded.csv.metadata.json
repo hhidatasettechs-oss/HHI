@@ -1,0 +1,86 @@
+{
+  "filename": "text_summary_encoded.csv",
+  "full_path": "C:\\Users\\amy\\Documents\\HHI\\07_Archive\\text_summary_encoded.csv",
+  "size_bytes": 3216,
+  "created": "2025-12-03T22:48:35.0775597Z",
+  "modified": "2025-12-03T22:48:35.0781211Z",
+  "type": ".csv",
+  "csv": {
+    "row_count": 39,
+    "column_count": 10,
+    "columns": [
+      "text",
+      "intent_Feedback",
+      "intent_Other",
+      "intent_Question",
+      "tone_Curious",
+      "tone_Other",
+      "relational_pattern_Other",
+      "tags_AI",
+      "tags_Other",
+      "tags_Python"
+    ],
+    "sample_rows": [
+      {
+        "text": "name it name message from name is emotionally reactive and defensive names framing himself as misunderstood manipulated and refusing to be painted as obsessed name words show a deeper control reflex likely triggered by the perception that youre shifting the narrative or closing off access",
+        "intent_Feedback": "1",
+        "intent_Other": "0",
+        "intent_Question": "1",
+        "tone_Curious": "1",
+        "tone_Other": "0",
+        "relational_pattern_Other": "1",
+        "tags_AI": "1",
+        "tags_Other": "0",
+        "tags_Python": "0"
+      },
+      {
+        "text": "name on this text ive extracted the threads to prep your next name entry in name name and ill nameencode it below",
+        "intent_Feedback": "0",
+        "intent_Other": "1",
+        "intent_Question": "0",
+        "tone_Curious": "0",
+        "tone_Other": "1",
+        "relational_pattern_Other": "1",
+        "tags_AI": "0",
+        "tags_Other": "0",
+        "tags_Python": "1"
+      },
+      {
+        "text": "",
+        "intent_Feedback": "0",
+        "intent_Other": "1",
+        "intent_Question": "0",
+        "tone_Curious": "0",
+        "tone_Other": "1",
+        "relational_pattern_Other": "1",
+        "tags_AI": "0",
+        "tags_Other": "1",
+        "tags_Python": "0"
+      },
+      {
+        "text": "thread decode from text name",
+        "intent_Feedback": "0",
+        "intent_Other": "1",
+        "intent_Question": "0",
+        "tone_Curious": "0",
+        "tone_Other": "1",
+        "relational_pattern_Other": "1",
+        "tags_AI": "0",
+        "tags_Other": "0",
+        "tags_Python": "1"
+      },
+      {
+        "text": "name name name",
+        "intent_Feedback": "0",
+        "intent_Other": "1",
+        "intent_Question": "0",
+        "tone_Curious": "0",
+        "tone_Other": "1",
+        "relational_pattern_Other": "1",
+        "tags_AI": "0",
+        "tags_Other": "1",
+        "tags_Python": "0"
+      }
+    ]
+  }
+}

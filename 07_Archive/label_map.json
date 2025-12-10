@@ -1,0 +1,19 @@
+{
+  "intent": [
+    "Feedback",
+    "Other",
+    "Question"
+  ],
+  "tone": [
+    "Curious",
+    "Other"
+  ],
+  "relational_pattern": [
+    "Other"
+  ],
+  "tags": [
+    "AI",
+    "Other",
+    "Python"
+  ]
+}

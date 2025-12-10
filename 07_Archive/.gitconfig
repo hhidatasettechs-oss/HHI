@@ -1,0 +1,15 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = hhidatasettechs-oss
+	email = the@email.you.used@github
+[credential]
+	helper = manager
+[core]
+	autocrlf = true
+	editor = notepad
+[gui]
+	recentrepo = C:/Users/amy/Documents/Hollow_House/hollowhouse-somatic-field-systems

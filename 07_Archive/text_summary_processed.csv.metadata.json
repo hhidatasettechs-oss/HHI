@@ -1,0 +1,56 @@
+{
+  "filename": "text_summary_processed.csv",
+  "full_path": "C:\\Users\\amy\\Documents\\HHI\\07_Archive\\text_summary_processed.csv",
+  "size_bytes": 4021,
+  "created": "2025-12-03T22:48:35.0930845Z",
+  "modified": "2025-12-03T22:48:35.0930845Z",
+  "type": ".csv",
+  "csv": {
+    "row_count": 39,
+    "column_count": 5,
+    "columns": [
+      "text",
+      "intent",
+      "tone",
+      "relational_pattern",
+      "tags"
+    ],
+    "sample_rows": [
+      {
+        "text": "name it name message from name is emotionally reactive and defensive names framing himself as misunderstood manipulated and refusing to be painted as obsessed name words show a deeper control reflex likely triggered by the perception that youre shifting the narrative or closing off access",
+        "intent": "['Question', 'Feedback']",
+        "tone": "['Curious']",
+        "relational_pattern": "['Other']",
+        "tags": "['AI']"
+      },
+      {
+        "text": "name on this text ive extracted the threads to prep your next name entry in name name and ill nameencode it below",
+        "intent": "['Other']",
+        "tone": "['Other']",
+        "relational_pattern": "['Other']",
+        "tags": "['Python']"
+      },
+      {
+        "text": "",
+        "intent": "['Other']",
+        "tone": "['Other']",
+        "relational_pattern": "['Other']",
+        "tags": "['Other']"
+      },
+      {
+        "text": "thread decode from text name",
+        "intent": "['Other']",
+        "tone": "['Other']",
+        "relational_pattern": "['Other']",
+        "tags": "['Python']"
+      },
+      {
+        "text": "name name name",
+        "intent": "['Other']",
+        "tone": "['Other']",
+        "relational_pattern": "['Other']",
+        "tags": "['Other']"
+      }
+    ]
+  }
+}
