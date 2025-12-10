@@ -1,0 +1,28 @@
+{
+  "filename": "dataset_full.csv",
+  "full_path": "C:\\Users\\amy\\Documents\\HHI\\03_Datasets\\dataset_full.csv",
+  "size_bytes": 146,
+  "created": "2025-12-03T22:48:35.0479054Z",
+  "modified": "2025-12-03T22:48:35.0488718Z",
+  "type": ".csv",
+  "csv": {
+    "row_count": 1,
+    "column_count": 6,
+    "columns": [
+      "text",
+      "intent",
+      "tone",
+      "relational_pattern",
+      "tags",
+      "source"
+    ],
+    "sample_rows": {
+      "text": "",
+      "intent": "['N/A']",
+      "tone": "['N/A']",
+      "relational_pattern": "['N/A']",
+      "tags": "['py']",
+      "source": "C:\\Users\\Amy\\Hollow_House_Dataset\\raw\\New Python Source File.py"
+    }
+  }
+}

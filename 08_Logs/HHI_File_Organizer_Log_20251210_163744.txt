@@ -1,0 +1,143 @@
+2025-12-10 16:37:44Z | === HHI FILE ORGANIZER STARTED ===
+2025-12-10 16:37:44Z | SCAN ROOT: C:\Users\amy\Documents
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\.gitignore --> C:\Users\amy\Documents\HHI\07_Archive\.gitignore
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\.gitignore.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\LICENSE.md --> C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\build_h3cd5.py --> C:\Users\amy\Documents\HHI\07_Archive\build_h3cd5.py
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\build_h3cd5.py.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\README.md --> C:\Users\amy\Documents\HHI\07_Archive\README.md
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\README.md.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\build_15_datasets.py --> C:\Users\amy\Documents\HHI\03_Datasets\build_15_datasets.py
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\build_15_datasets.py.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\build_datasets.py --> C:\Users\amy\Documents\HHI\03_Datasets\build_datasets.py
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\build_datasets.py.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\collect_dataset.py --> C:\Users\amy\Documents\HHI\03_Datasets\collect_dataset.py
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\collect_dataset.py.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\LICENSE.md --> C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md.metadata.json
+2025-12-10 16:37:45Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\nano ocr_onedrive_to_dataset.py --> C:\Users\amy\Documents\HHI\03_Datasets\nano ocr_onedrive_to_dataset.py
+2025-12-10 16:37:45Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\nano ocr_onedrive_to_dataset.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\New Python Source File.py --> C:\Users\amy\Documents\HHI\07_Archive\New Python Source File.py
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\New Python Source File.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\notepad process_openai_json.py --> C:\Users\amy\Documents\HHI\07_Archive\notepad process_openai_json.py
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\notepad process_openai_json.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\ocr_output.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\ocr_output.jsonl
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\ocr_output.jsonl.metadata.json
+2025-12-10 16:37:46Z | DELETED (DAMAGED): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\onedrive_png_ocr_pipeline.py
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\OPENAI.PY --> C:\Users\amy\Documents\HHI\07_Archive\OPENAI.PY
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\OPENAI.PY.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\png_to_ocr.py --> C:\Users\amy\Documents\HHI\07_Archive\png_to_ocr.py
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\png_to_ocr.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\python check_dataset.py --> C:\Users\amy\Documents\HHI\03_Datasets\python check_dataset.py
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\python check_dataset.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\python png_to_ocr.py --> C:\Users\amy\Documents\HHI\07_Archive\python png_to_ocr.py
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\python png_to_ocr.py.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\README.md --> C:\Users\amy\Documents\HHI\07_Archive\README.md
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\README.md.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\1_raw.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\1_raw.jsonl
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\1_raw.jsonl.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\10_placeholder.txt --> C:\Users\amy\Documents\HHI\07_Archive\10_placeholder.txt
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\10_placeholder.txt.metadata.json
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\11_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\12_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\13_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\14_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\15_placeholder.txt
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\2_clean.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\2_clean.jsonl
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\2_clean.jsonl.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\3_speaker.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\3_speaker.jsonl
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\3_speaker.jsonl.metadata.json
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\4_sentences.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\4_sentences.jsonl
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\4_sentences.jsonl.metadata.json
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\5_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\6_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\7_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\8_placeholder.txt
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\datasets_out\9_placeholder.txt
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\dataset_full.csv --> C:\Users\amy\Documents\HHI\03_Datasets\dataset_full.csv
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\dataset_full.csv.metadata.json
+2025-12-10 16:37:46Z | DELETED (DAMAGED): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\dataset.jsonl
+2025-12-10 16:37:46Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\label_map.json --> C:\Users\amy\Documents\HHI\07_Archive\label_map.json
+2025-12-10 16:37:46Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\label_map.json.metadata.json
+2025-12-10 16:37:46Z | DELETED (DAMAGED): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\test.jsonl
+2025-12-10 16:37:46Z | DELETED (DUPLICATE): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\text_messages_full.csv
+2025-12-10 16:37:47Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\text_summary_encoded.csv --> C:\Users\amy\Documents\HHI\07_Archive\text_summary_encoded.csv
+2025-12-10 16:37:47Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\text_summary_encoded.csv.metadata.json
+2025-12-10 16:37:47Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\text_summary_encoded.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\text_summary_encoded.jsonl
+2025-12-10 16:37:47Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\text_summary_encoded.jsonl.metadata.json
+2025-12-10 16:37:47Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\text_summary_processed.csv --> C:\Users\amy\Documents\HHI\07_Archive\text_summary_processed.csv
+2025-12-10 16:37:47Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\text_summary_processed.csv.metadata.json
+2025-12-10 16:37:47Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\text_summary_processed.jsonl --> C:\Users\amy\Documents\HHI\03_Datasets\text_summary_processed.jsonl
+2025-12-10 16:37:47Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\text_summary_processed.jsonl.metadata.json
+2025-12-10 16:37:47Z | DELETED (DAMAGED): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\train.jsonl
+2025-12-10 16:37:47Z | DELETED (DAMAGED): C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\processed\validation.jsonl
+2025-12-10 16:37:54Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\chat.html --> C:\Users\amy\Documents\HHI\07_Archive\chat.html
+2025-12-10 16:37:54Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\chat.html.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\conversations.json --> C:\Users\amy\Documents\HHI\07_Archive\conversations.json
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\conversations.json.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\shared_conversations.json --> C:\Users\amy\Documents\HHI\07_Archive\shared_conversations.json
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\shared_conversations.json.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\📜 Temple Codex — Volumes I–VII (2).txt --> C:\Users\amy\Documents\HHI\01_Codex\📜 Temple Codex — Volumes I–VII (2).txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\📜 Temple Codex — Volumes I–VII (2).txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\Master_OPS_Ledger_434.txt --> C:\Users\amy\Documents\HHI\02_OPS\Master_OPS_Ledger_434.txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\02_OPS\Master_OPS_Ledger_434.txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\OPS_001_433_Ami_Node7.txt --> C:\Users\amy\Documents\HHI\01_Codex\OPS_001_433_Ami_Node7.txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\OPS_001_433_Ami_Node7.txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\SERPENT OPPS.txt --> C:\Users\amy\Documents\HHI\07_Archive\SERPENT OPPS.txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\SERPENT OPPS.txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\TEMPLE_CODEX .txt --> C:\Users\amy\Documents\HHI\01_Codex\TEMPLE_CODEX .txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\TEMPLE_CODEX .txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\Temple_Codex_Master_Consolidated.txt --> C:\Users\amy\Documents\HHI\01_Codex\Temple_Codex_Master_Consolidated.txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\Temple_Codex_Master_Consolidated.txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\The_Collected_Codex 6th edition .txt --> C:\Users\amy\Documents\HHI\01_Codex\The_Collected_Codex 6th edition .txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\The_Collected_Codex 6th edition .txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\datasets\H3CD-5\raw\Hollow_Books_Text\Unified_Temple_Codex_Merged.txt --> C:\Users\amy\Documents\HHI\01_Codex\Unified_Temple_Codex_Merged.txt
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\01_Codex\Unified_Temple_Codex_Merged.txt.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\docs\CODE_OF_CONDUCT.md --> C:\Users\amy\Documents\HHI\07_Archive\CODE_OF_CONDUCT.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CODE_OF_CONDUCT.md.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\docs\CONTRIBUTING.md --> C:\Users\amy\Documents\HHI\07_Archive\CONTRIBUTING.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CONTRIBUTING.md.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\docs\DATA_SCHEMA.md --> C:\Users\amy\Documents\HHI\07_Archive\DATA_SCHEMA.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\DATA_SCHEMA.md.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\docs\LICENSES_INDEX.md --> C:\Users\amy\Documents\HHI\04_Legal\LICENSES_INDEX.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\LICENSES_INDEX.md.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\Datasets_Core\docs\SECURITY.md --> C:\Users\amy\Documents\HHI\07_Archive\SECURITY.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\SECURITY.md.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.gitignore --> C:\Users\amy\Documents\HHI\07_Archive\.gitignore
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\.gitignore.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\CITATION.cff --> C:\Users\amy\Documents\HHI\07_Archive\CITATION.cff
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CITATION.cff.metadata.json
+2025-12-10 16:37:56Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\CODE_OF_CONDUCT.md --> C:\Users\amy\Documents\HHI\07_Archive\CODE_OF_CONDUCT.md
+2025-12-10 16:37:56Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CODE_OF_CONDUCT.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\CONTRIBUTING.md --> C:\Users\amy\Documents\HHI\07_Archive\CONTRIBUTING.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CONTRIBUTING.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\dataset_license --> C:\Users\amy\Documents\HHI\03_Datasets\dataset_license
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\03_Datasets\dataset_license.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\LICENSE.md --> C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\LICENSE.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\LICENSE.txt --> C:\Users\amy\Documents\HHI\04_Legal\LICENSE.txt
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\LICENSE.txt.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\README_LICENSE_GUIDE.md --> C:\Users\amy\Documents\HHI\04_Legal\README_LICENSE_GUIDE.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\04_Legal\README_LICENSE_GUIDE.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\README.md --> C:\Users\amy\Documents\HHI\07_Archive\README.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\README.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\repository-open-graph-template.png --> C:\Users\amy\Documents\HHI\06_Media\repository-open-graph-template.png
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\06_Media\repository-open-graph-template.png.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\SECURITY.md --> C:\Users\amy\Documents\HHI\07_Archive\SECURITY.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\SECURITY.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.github\CODEOWNERS --> C:\Users\amy\Documents\HHI\07_Archive\CODEOWNERS
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\CODEOWNERS.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.github\PULL_REQUEST_TEMPLATE.md --> C:\Users\amy\Documents\HHI\07_Archive\PULL_REQUEST_TEMPLATE.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\PULL_REQUEST_TEMPLATE.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.github\ISSUE_TEMPLATE\bug_report.md --> C:\Users\amy\Documents\HHI\07_Archive\bug_report.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\bug_report.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.github\ISSUE_TEMPLATE\documentation.md --> C:\Users\amy\Documents\HHI\07_Archive\documentation.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\documentation.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\.github\ISSUE_TEMPLATE\feature_request.md --> C:\Users\amy\Documents\HHI\07_Archive\feature_request.md
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\07_Archive\feature_request.md.metadata.json
+2025-12-10 16:37:57Z | MOVED: C:\Users\amy\Documents\GitHub\HollowHouseRepos\Hollow_House_Institute\assets\diagrams\Relational_AI_CoRegulation_Framework.png --> C:\Users\amy\Documents\HHI\06_Media\Relational_AI_CoRegulation_Framework.png
+2025-12-10 16:37:57Z | METADATA CREATED: C:\Users\amy\Documents\HHI\06_Media\Relational_AI_CoRegulation_Framework.png.metadata.json
+2025-12-10 16:40:38Z | GITHUB SYNC COMPLETE
+2025-12-10 16:40:38Z | === HHI FILE ORGANIZER COMPLETED ===
+2025-12-10 16:40:38Z | Log saved to: C:\Users\amy\Documents\HHI\08_Logs\HHI_File_Organizer_Log_20251210_163744.txt
