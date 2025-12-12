@@ -102,11 +102,8 @@ Pull requests, forks, or derivative works are not permitted without explicit wri
 
 ---
 
-## Contact
+Contact
 
-Licensing, enterprise, and audit inquiries are handled privately by **Hollow House Institute**.
+For licensing, enterprise engagement, or authorized use inquiries, contact Hollow House Institute directly.
 
-No public support channels are provided.
-
----
-
+This repository does not offer community support channels.
