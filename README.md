@@ -1,6 +1,7 @@
 # Hollow House Institute (HHI)
 
-HHI is a governed system for licensed datasets, methods, and interpretive tools focused on **non-clinical human pattern analysis**, **identity protection**, and **long-term stewardship**.
+Hollow House Institute (HHI) provides licensed, non-clinical human pattern datasets and governance frameworks designed for ethical AI development, identity protection, and enterprise-grade compliance.
+
 
 All assets are audited, versioned, hash-anchored, and licensed.  
 No asset bypasses governance.
