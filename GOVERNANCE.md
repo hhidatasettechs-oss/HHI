@@ -76,12 +76,16 @@ The Hollow House Auditing Framework is applied to **all assets and outputs**.
 - **Licensing Compliance**  
   Enforces post-distribution use limits.
 
-Audit failure triggers **immediate suspension or revocation**.
+--Failure in any audit domain results in suspension or revocation of rights, regardless of license tier or commercial arrangement.
 
 ---
 
 ## 5. License Framework (Legal Enforcement Layer)
 
+Licensing grants conditional permission, not ownership.
+All licenses are subordinate to the Auditing Framework.
+scrub
+No license grants rights that conflict with audit findings, identity protections, or pillar boundaries.
 Default license:
 - **HHI–MUL (Multi-Use License)**
 
@@ -111,15 +115,15 @@ Hashes provide:
 
 ## 7. Non-Negotiables
 
-- HHI is **not** therapy, medicine, or diagnosis.
-- Identity and likeness assets are **never sold**.
-- Raw personal archives are **never released**.
-- Audit enforcement overrides commercial pressure.
-- Attribution is mandatory.
-- Misuse results in revocation.
+-The following conditions are absolute:
 
---Failure in any audit domain results in suspension or revocation of rights, regardless of license tier or commercial arrangement.
--
+- HHI does not provide medical, psychological, therapeutic, or diagnostic services.
+- HHI assets may not be framed, marketed, or used as clinical tools.
+- Identity, likeness, and raw personal archives are permanently excluded from sale or transfer.
+- Audit enforcement supersedes commercial agreements.
+- Misuse, reframing, or scope violation results in immediate revocation.
+
+---
 
 ## 8. Summary
 
@@ -130,7 +134,9 @@ The HHI Governance Stack exists to ensure that:
 - Ownership remains clear
 - Continuity is preserved
 
-This structure is intentional and permanent.
+HHI governance exists to ensure that scale does not compromise integrity, and that interpretation never becomes diagnosis, identity extraction, or exploitation.
+
+This structure is intentional, enforced, and non-optional.
 
 ---
 
