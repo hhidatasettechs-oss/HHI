@@ -5,13 +5,14 @@ This repository is governed and maintained by the Hollow House Institute (HHI).
 ## Official Contact Channels
 
 ### General & Licensing
-📧 contact@hollowhouseinstitute.org
+📧 contact@Ehhidatasettechs@gmail.com
 
 ### Security & Compliance
-📧 security@hollowhouseinstitute.org
+📧 security: hhidatasettechs@gmail.com
 
 ### Commercial & Enterprise Licensing
-📧 licensing@hollowhouseinstitute.org
+📧 licensing:hhidatasettechs@gmail.com
+
 
 ---
 
