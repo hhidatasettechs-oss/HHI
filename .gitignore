@@ -27,3 +27,18 @@ archives/
 scripts/*.jsonl
 scripts/*.csv
 scripts/*log*
+# Never public — binaries
+*.zip
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.mp4
+*.m4a
+
+# Processed outputs
+processed/
+
+# Sales bundles
+HHI_Datasets_To_Sell*
