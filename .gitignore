@@ -7,3 +7,7 @@ codex_raw/conversations.json
 *_Archive/
 archive/
 archives/
+# NEVER PUBLIC — derived data
+scripts/*.jsonl
+scripts/*.csv
+scripts/*log*
