@@ -1,7 +1,10 @@
 # Hollow House Institute — Governance Stack
 
-This document describes how Hollow House Institute (HHI) assets are **governed, protected, audited, and licensed**.  
-It is intentionally structural, not promotional.
+This document defines the mandatory governance structure applied to all Hollow House Institute (HHI) assets.
+
+HHI is designed as a non-clinical, non-diagnostic, identity-protective system.  
+All assets are subject to audit, licensing constraints, and release controls.  
+No asset, output, or derivative use may bypass this structure.
 
 HHI is designed to remain **non-clinical, non-extractive, and identity-protective** by default.
 
@@ -49,6 +52,11 @@ Any asset **not listed in the ledger is not considered licensable or production-
 ---
 
 ## 4. Auditing Framework — HHI-AF (Control Layer)
+
+The Hollow House Auditing Framework (HHI-AF) is a compulsory control system applied before and after distribution.
+
+Audits are not advisory.  
+They are enforceable conditions of access and use.
 
 The Hollow House Auditing Framework is applied to **all assets and outputs**.
 
@@ -110,7 +118,8 @@ Hashes provide:
 - Attribution is mandatory.
 - Misuse results in revocation.
 
----
+--Failure in any audit domain results in suspension or revocation of rights, regardless of license tier or commercial arrangement.
+-
 
 ## 8. Summary
 
