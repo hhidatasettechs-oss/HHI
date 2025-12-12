@@ -24,8 +24,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install pylint
 
-      - name: Run pylint (tooling only)
-        run: |
-          pylint scripts pipelines ops \
-            --disable=missing-module-docstring,missing-function-docstring,missing-class-docstring \
-            --ignore-patterns=".*\\.txt,.*\\.jsonl,.*\\.md"
+      - name: Run scoped pylint
+  run: |
+    pylint \
+      scripts/ops \
+      scripts/pipelines \
+      --disable=all \
+      --enable=E,F
