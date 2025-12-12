@@ -2,6 +2,14 @@
 
 **Canonical Governance · Licensed Datasets · Audit-Enforced Systems**
 
+## Governance & Integrity
+
+HHI assets are governed by a fixed enforcement stack that prioritizes identity sovereignty, non-clinical use, auditability, and long-term stewardship.
+
+→ See: [GOVERNANCE_STACK.md](./GOVERNANCE_STACK.md)
+
+All datasets, methods, and releases are versioned, audited, hash-anchored, and licensed under enforceable terms.
+
 ---
 
 ## Overview
