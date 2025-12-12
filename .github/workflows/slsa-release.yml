@@ -1,0 +1,19 @@
+name: SLSA Provenance
+
+on:
+  release:
+    types: [created]
+
+permissions:
+  contents: read
+  actions: read
+  id-token: write
+
+jobs:
+  provenance:
+    name: Generate SLSA Provenance
+    uses: slsa-framework/slsa-github-generator/.github/workflows/generator_generic_slsa3.yml@v2
+    with:
+      artifact_path: |
+        RELEASE_SHA256.txt
+        README.md
