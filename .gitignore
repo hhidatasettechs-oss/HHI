@@ -2,3 +2,8 @@
 codex_raw/conversations.json
 *.json
 *.html
+# NEVER PUBLIC — archives
+07_Archive/
+*_Archive/
+archive/
+archives/
