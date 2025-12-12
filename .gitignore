@@ -3,7 +3,23 @@ codex_raw/conversations.json
 *.json
 *.html
 # NEVER PUBLIC — archives
-07_Archive/
+07_Arch# Never track binary artifacts by default
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.mp4
+*.m4a
+*.zip
+
+# Processed outputs
+processed/
+
+# Local exports
+*_export/
+*_output/
+ive/
 *_Archive/
 archive/
 archives/
