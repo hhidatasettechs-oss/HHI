@@ -54,6 +54,7 @@ Commercial deployment requires explicit upgrade:
 
 Licensing grants conditional permission, not ownership.  
 All use is subordinate to the Hollow House Auditing Framework (HHI-AF).
+For licensing and enterprise inquiries: hhidatasettechs@gmail.com
 
 ---
 
