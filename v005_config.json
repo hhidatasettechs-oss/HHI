@@ -1,19 +1,15 @@
 {
   "version": "v005",
-  "raw_root": "C:\\Users\\amy\\Documents\\HHI\\codex_raw",
-
+  "raw_root": "${HHI_RAW_ROOT}",
   "files": {
     "anonymization_map": "anonymization_map.json",
     "metadata": "metadata.json",
     "blocks_anon": "blocks_anon.jsonl",
     "ops_ledger_anon": "ops_ledger_anon.jsonl"
   },
-
-  "datasets_target_root": "C:\\Users\\amy\\Documents\\HHI\\datasets_v005",
-
+  "datasets_target_root": "${HHI_DATASETS_ROOT}",
   "index_files": {
     "block_index": "v005_block_index.jsonl",
     "ops_index": "v005_ops_index.jsonl"
   }
 }
-
